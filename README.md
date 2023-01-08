@@ -1,4 +1,4 @@
-[![Windows](https://raw.githubusercontent.com/nek7u/OneTicker/master/wiki/images/misc/badge-windows10-11.svg)](#) [![Rainmeter](https://raw.githubusercontent.com/nek7u/OneTicker/main/wiki/images/misc/badge-rainmeter44gt.svg)](https://www.rainmeter.net/) [![](https://raw.githubusercontent.com/nek7u/Snip-and-Pin-to-Screen/main/w/images/misc/badge-scalableskin.svg)](#) 
+[![Windows](https://raw.githubusercontent.com/nek7u/OneTicker/master/wiki/images/misc/badge-windows10-11.svg)](#) [![Rainmeter](https://raw.githubusercontent.com/nek7u/OneTicker/main/wiki/images/misc/badge-rainmeter45gt.svg)](https://www.rainmeter.net/) [![](https://raw.githubusercontent.com/nek7u/Snip-and-Pin-to-Screen/main/w/images/misc/badge-scalableskin.svg)](#) 
 
 
 ### Documents [OneTicker Home](https://github.com/nek7u/OneTicker/wiki)  
