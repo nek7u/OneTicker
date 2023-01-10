@@ -1,0 +1,12 @@
+
+<Tip> Changing the skin scaling for high resolution monitors:  Menu > Settings > Skin scaling
+
+<Tip> To see preview of the themes:  Menu > Styles > Themes > Click on the "Themes" at the top of the context menu.
+
+<Tip> Switching between ticker items:  Scroll the mouse wheel on the ticker item.
+
+<Tip> Skipping the ticker items of the same data source:  Right-click on the right-arrow button.
+
+<Tip> Open the source text file:  Middle-click on the item text.
+
+<Info> You can stop displaying these tips:  Menu > Sources > Uncheck the "Local"
