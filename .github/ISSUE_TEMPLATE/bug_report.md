@@ -24,7 +24,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **PC:**
- - OS: Windwos
+ - OS: Windows
  - Rainmeter Version:  
 
 **Additional context**
