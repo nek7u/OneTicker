@@ -5,7 +5,7 @@
 
 <Tip> Switching between ticker items:  Scroll the mouse wheel on the ticker item.
 
-<Tip> Skipping the ticker items of the same data source:  Right-click on the right-arrow button.
+<Tip> Skipping the ticker items of the same data source:  Right-click on the right-pointing triangle button.
 
 <Tip> Open the source text file:  Middle-click on the item text.
 
