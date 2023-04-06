@@ -9,4 +9,4 @@
 
 <Tip> Open the source text file:  Middle-click on the item text.
 
-<Info> You can stop displaying these tips:  Menu > Sources > Uncheck the "Local"
+<Info> You could stop displaying these tips:  Menu > Sources > Uncheck the "Local"
